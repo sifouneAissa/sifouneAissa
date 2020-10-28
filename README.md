@@ -1,4 +1,4 @@
-### I'm [Aissa Sifoune!] (https://twitter.com/SifouneAissa)👋
+### I'm [Aissa Sifoune!](https://twitter.com/SifouneAissa)👋
 
 <a href="https://twitter.com/SifouneAissa">
   <img align="left" alt="Aissa's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
