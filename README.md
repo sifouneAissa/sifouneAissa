@@ -16,8 +16,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently work at [Asweedy]
-- 🔭 I’m currently working on [Laravel](http://laravel.com) && [Vue.Js](https://vuejs.org/)
+- 🔭 I’m currently work at [Developtic]
+- 🔭 I’m currently working on [Laravel](http://laravel.com) && [Vue.Js](https://vuejs.org/) && [React](https://react.org/)
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 💬 Ask me about Laravel or any tech related stuff.
 - 📫 How to reach me: [Twitter - @SifouneAissa](https://twitter.com/SifouneAissa)
