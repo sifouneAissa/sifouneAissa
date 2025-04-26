@@ -17,8 +17,8 @@
 <br/>
 
 - 🔭 I’m currently work at [Developtic]
-- 🔭 I’m currently working on [Laravel](http://laravel.com) && [Vue.Js](https://vuejs.org/) && [React](https://react.dev)
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
+- 🔭 I’m currently working on [Laravel](http://laravel.com) && [Vue.Js](https://vuejs.org/) && [React](https://react.dev) && [Flutter](https://flutter.dev)
+- 🌱 I’m currently learning [RUBY](https://ruby.dev/)
 - 💬 Ask me about Laravel or any tech related stuff.
 - 📫 How to reach me: [Twitter - @SifouneAissa](https://twitter.com/SifouneAissa)
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
